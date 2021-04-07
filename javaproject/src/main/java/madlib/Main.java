@@ -21,7 +21,7 @@ public class Main {
        String food2;
        String number2;
        String Answer;
-       	System.out.println("Hello Github hopefully this appears through Jenkins")
+       	System.out.println("Hello Github hopefully this appears through Jenkins test 2")
         Scanner op = new Scanner(System.in);
 
         System.out.println("Hello Welcome to my very bad MadLib.");
